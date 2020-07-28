@@ -1,0 +1,25 @@
+{
+  "name": "Parcial_2",
+  "version": "1.0.0",
+  "description": "This is my partial 2 of Web Development Applications Subject",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FCancinoS/Parcial_2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FCancinoS/Parcial_2/issues"
+  },
+  "homepage": "https://github.com/FCancinoS/Parcial_2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4"
+  }
+}
